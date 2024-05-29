@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" parallel="false">
+    <test name="Smoke Test">
+        <classes>
+            <class name = "Day15_05212024.Google_ReusableMethod" />
+            <class name="Day15_05212024.Yahoo_ReusableMethod" />
+        </classes>
+    </test>
+</suite>
